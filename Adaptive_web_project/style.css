@@ -137,6 +137,10 @@ img {
     color: #F16D7F;
 }
 
+.sale__heading:hover {
+    text-decoration: underline;
+}
+
 .product__heading {
     display: flex;
     justify-content: center;
